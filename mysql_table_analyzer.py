@@ -179,15 +179,20 @@ if __name__ == "__main__":
         # 'dwd_htcl_process_extrusion_line_1'
         # 'dwd_htcl_process_extrusion_line_2',
         # 'dwd_htcl_process_extrusion_line_3',
-        'dwd_htcl_process_online_quench',
-        'dwd_htcl_process_extrusion_stretch',
-        'dwd_htcl_process_extrusion_anneal',
-        'dwd_htcl_process_vertical_quench',
-        'dwd_htcl_process_extrusion_age',
-        'dwd_htcl_process_finished_product_saw',
-        'dwd_htcl_process_band_saw',
-        'dwd_htcl_process_extrusion_shape',
+        # 'dwd_htcl_process_online_quench',
+        # 'dwd_htcl_process_extrusion_stretch',
+        # 'dwd_htcl_process_extrusion_anneal',
+        # 'dwd_htcl_process_vertical_quench',
+        # 'dwd_htcl_process_extrusion_age',
+        # 'dwd_htcl_process_finished_product_saw',
+        # 'dwd_htcl_process_band_saw',
+        # 'dwd_htcl_process_extrusion_shape',
         # 'dwd_htcl_process_round_bar_turn'
+
+        #热轧的
+        # 'dwd_htcl_process_plate_saw',
+        'dwd_htcl_process_plate_brush'
+
 
     }
     for table in tables:
